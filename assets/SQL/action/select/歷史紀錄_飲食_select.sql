@@ -1,4 +1,4 @@
--- ¾ú¥v¬ö¿ý­¶¡G¤À­¶ (¶¼­¹¬°¨Ò¡^
+-- æ­·å²ç´€éŒ„é ï¼šåˆ†é  (é£²é£Ÿç‚ºä¾‹ï¼‰
 DECLARE @user_id INT = 1;
 DECLARE @page  INT = 1;
 DECLARE @size  INT = 10;

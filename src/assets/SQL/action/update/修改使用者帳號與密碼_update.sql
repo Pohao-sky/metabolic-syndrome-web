@@ -2,4 +2,4 @@
 UPDATE USERS
 SET account = 'Mcu001',
 password = 'pass1234'
-WHERE users_id = 1;
+WHERE user_id = 1;

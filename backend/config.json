@@ -1,0 +1,14 @@
+{
+  "db": {
+    "server": "himhealth.mcu.edu.tw",
+    "port": 8081,
+    "user": "miUser",
+    "password": "Mcu123",
+    "database": "metabolic_syndrome",
+    "options": {
+      "driver": "ODBC Driver 18 for SQL Server",
+      "encrypt": true,
+      "trustServerCertificate": true
+    }
+  }
+}
